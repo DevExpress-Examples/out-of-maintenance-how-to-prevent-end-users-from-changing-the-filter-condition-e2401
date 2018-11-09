@@ -1,4 +1,4 @@
-﻿<Window xmlns:dxpg="http://schemas.devexpress.com/winfx/2008/xaml/pivotgrid" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:dxb="http://schemas.devexpress.com/winfx/2008/xaml/bars" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Class="DXPivotGrid_CancelFilterChanging.MainWindow" Height="500" Width="650" Title="Main Window">
+<Window xmlns:dxpg="http://schemas.devexpress.com/winfx/2008/xaml/pivotgrid" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:dxb="http://schemas.devexpress.com/winfx/2008/xaml/bars" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Class="DXPivotGrid_CancelFilterChanging.MainWindow" Height="500" Width="650" Title="Main Window">
     <Grid>
         <dxpg:PivotGridControl FieldFilterChanging="pivotGridControl1_FieldFilterChanging" Name="pivotGridControl1">
             <dxpg:PivotGridControl.Fields>
