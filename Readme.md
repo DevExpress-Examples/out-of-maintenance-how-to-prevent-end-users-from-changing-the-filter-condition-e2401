@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainWindow.xaml](./CS/DXPivotGrid_CancelFilterChanging/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DXPivotGrid_CancelFilterChanging/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/DXPivotGrid_CancelFilterChanging/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/DXPivotGrid_CancelFilterChanging/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/DXPivotGrid_CancelFilterChanging/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/DXPivotGrid_CancelFilterChanging/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to prevent end-users from changing the filter condition
 
